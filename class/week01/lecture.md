@@ -27,7 +27,7 @@ An interactive version of the worksheet for today is available below on PrairieL
 ```
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://ca.prairielearn.com/pl/course_instance/2344/assessment/17994"></iframe>
+<iframe class="responsive-iframe" src="https://ca.prairielearn.com/pl/course_instance/2344/assessment/18047"></iframe>
 </div>
 
 If you do not have a Google Account, you can <a href="../../lecture.pdf">download a printable version of the worksheet for today</a>.
