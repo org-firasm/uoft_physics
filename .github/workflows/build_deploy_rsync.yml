@@ -60,5 +60,5 @@ jobs:
         chmod 600 ~/.ssh/id_rsa
         pwd
         ls -la
-        rsync -avzr --delete _build/html/ $REMOTE_USER@$REMOTE_HOST:firas.moosvi.com/interviews/sfu_talk
+        rsync -avzr --delete _build/html/ $REMOTE_USER@$REMOTE_HOST:firas.moosvi.com/interviews/uoft_physics
         
